@@ -18,7 +18,5 @@ export default function App() {
       />
       {fontsLoaded ? <SignIn /> : <Loading />}
     </NativeBaseProvider>
-
-    //test
   );
 }
