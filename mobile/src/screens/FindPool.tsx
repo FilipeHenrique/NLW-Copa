@@ -22,7 +22,7 @@ export function FindPool() {
                 />
 
                 <Button 
-                    title="BUSCAR BOLÃO "
+                    title="BUSCAR BOLÃO "   
                 />
 
             </VStack>
